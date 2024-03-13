@@ -1342,3 +1342,98 @@ DEBUG - 2024-03-13 17:09:43 --> Model Class Initialized
 DEBUG - 2024-03-13 17:09:43 --> File loaded: application/views/Servicios/vista_serv.php
 DEBUG - 2024-03-13 17:09:43 --> Final output sent to browser
 DEBUG - 2024-03-13 17:09:43 --> Total execution time: 0.0049
+DEBUG - 2024-03-13 17:32:35 --> Config Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Hooks Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Utf8 Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> UTF-8 Support Enabled
+DEBUG - 2024-03-13 17:32:35 --> URI Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Router Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> No URI present. Default controller set.
+DEBUG - 2024-03-13 17:32:35 --> Output Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Security Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Input Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-13 17:32:35 --> Language Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Loader Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Helper loaded: url_helper
+DEBUG - 2024-03-13 17:32:35 --> Helper loaded: string_helper
+DEBUG - 2024-03-13 17:32:35 --> Database Driver Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Session Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Session routines successfully run
+DEBUG - 2024-03-13 17:32:35 --> Controller Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Model Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> Model Class Initialized
+DEBUG - 2024-03-13 17:32:35 --> File loaded: application/views/Servicios/vista_serv.php
+DEBUG - 2024-03-13 17:32:35 --> Final output sent to browser
+DEBUG - 2024-03-13 17:32:35 --> Total execution time: 0.0021
+DEBUG - 2024-03-13 17:32:37 --> Config Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Hooks Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Utf8 Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> UTF-8 Support Enabled
+DEBUG - 2024-03-13 17:32:37 --> URI Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Router Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> No URI present. Default controller set.
+DEBUG - 2024-03-13 17:32:37 --> Output Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Security Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Input Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-13 17:32:37 --> Language Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Loader Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Helper loaded: url_helper
+DEBUG - 2024-03-13 17:32:37 --> Helper loaded: string_helper
+DEBUG - 2024-03-13 17:32:37 --> Database Driver Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Session Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Session routines successfully run
+DEBUG - 2024-03-13 17:32:37 --> Controller Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Model Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> Model Class Initialized
+DEBUG - 2024-03-13 17:32:37 --> File loaded: application/views/Servicios/vista_serv.php
+DEBUG - 2024-03-13 17:32:37 --> Final output sent to browser
+DEBUG - 2024-03-13 17:32:37 --> Total execution time: 0.0012
+DEBUG - 2024-03-13 17:33:21 --> Config Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Hooks Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Utf8 Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> UTF-8 Support Enabled
+DEBUG - 2024-03-13 17:33:21 --> URI Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Router Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> No URI present. Default controller set.
+DEBUG - 2024-03-13 17:33:21 --> Output Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Security Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Input Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-13 17:33:21 --> Language Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Loader Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Helper loaded: url_helper
+DEBUG - 2024-03-13 17:33:21 --> Helper loaded: string_helper
+DEBUG - 2024-03-13 17:33:21 --> Database Driver Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Session Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Session routines successfully run
+DEBUG - 2024-03-13 17:33:21 --> Controller Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Model Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> Model Class Initialized
+DEBUG - 2024-03-13 17:33:21 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-13 17:33:21 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-13 17:33:21 --> File loaded: application/views/Servicios/vista_serv.php
+DEBUG - 2024-03-13 17:33:21 --> Final output sent to browser
+DEBUG - 2024-03-13 17:33:21 --> Total execution time: 0.0311
+DEBUG - 2024-03-13 17:33:27 --> Config Class Initialized
+DEBUG - 2024-03-13 17:33:27 --> Hooks Class Initialized
+DEBUG - 2024-03-13 17:33:27 --> Utf8 Class Initialized
+DEBUG - 2024-03-13 17:33:27 --> UTF-8 Support Enabled
+DEBUG - 2024-03-13 17:33:27 --> URI Class Initialized
+DEBUG - 2024-03-13 17:33:27 --> Router Class Initialized
+ERROR - 2024-03-13 17:33:27 --> 404 Page Not Found --> InventarioControllers
+DEBUG - 2024-03-13 17:33:31 --> Config Class Initialized
+DEBUG - 2024-03-13 17:33:31 --> Hooks Class Initialized
+DEBUG - 2024-03-13 17:33:31 --> Utf8 Class Initialized
+DEBUG - 2024-03-13 17:33:31 --> UTF-8 Support Enabled
+DEBUG - 2024-03-13 17:33:31 --> URI Class Initialized
+DEBUG - 2024-03-13 17:33:31 --> Router Class Initialized
+ERROR - 2024-03-13 17:33:31 --> 404 Page Not Found --> CategoriasControllers
+DEBUG - 2024-03-13 17:33:33 --> Config Class Initialized
+DEBUG - 2024-03-13 17:33:33 --> Hooks Class Initialized
+DEBUG - 2024-03-13 17:33:33 --> Utf8 Class Initialized
+DEBUG - 2024-03-13 17:33:33 --> UTF-8 Support Enabled
+DEBUG - 2024-03-13 17:33:33 --> URI Class Initialized
+DEBUG - 2024-03-13 17:33:33 --> Router Class Initialized
+ERROR - 2024-03-13 17:33:33 --> 404 Page Not Found --> PrestamosControllers

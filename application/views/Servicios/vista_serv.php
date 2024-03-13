@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <?php $this->load->view("include/NavBar");?>
   </head>
 <br>
 <body>
@@ -17,18 +18,19 @@
         </tr>
       </thead>
       <tbody class="table-group-divider">
-      <?php if($servicios){ ?>
-        <?php foreach($servicios as $servicio){ ?>
-        <tr>
-			<td><?php echo $servicio->ID_SERV ?></td>
-			<td><?php echo $servicio->NOMSERV ?></td>
-			<td><button type="button" class="btn btn-info">Info</button></td>
-        </tr>
+        <?php if($servicios){ ?>
+          <?php foreach($servicios as $servicio){ ?>
+          <tr>
+            <td><?php echo $servicio->ID_SERV ?></td>
+            <td><?php echo $servicio->NOMSERV ?></td>
+            <td><button type="button" class="btn btn-info">Info</button></td>
+          </tr>
         <?php }?>
         <?php }else{ ?>            
-    <?php } ?>
+        <?php } ?>
       </tbody>
     </table>
   </div>
-	</body>
+  <?php $this->load->view("include/Footer");?>
+</body>
 </html>
