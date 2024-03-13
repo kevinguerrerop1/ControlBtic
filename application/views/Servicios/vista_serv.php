@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+<br>
+<body>
+  <div class="container">
+    <table class="table" id="myTable">
+      <thead>
+        <tr>
+			<th scope="col">#</th>
+			<th scope="col">Servicio</th>
+			<th scope="col">Acciones</th>
+        </tr>
+      </thead>
+      <tbody class="table-group-divider">
+      <?php if($servicios){ ?>
+        <?php foreach($servicios as $servicio){ ?>
+        <tr>
+			<td><?php echo $servicio->ID_SERV ?></td>
+			<td><?php echo $servicio->NOMSERV ?></td>
+			<td><button type="button" class="btn btn-info">Info</button></td>
+        </tr>
+        <?php }?>
+        <?php }else{ ?>            
+    <?php } ?>
+      </tbody>
+    </table>
+  </div>
+	</body>
+</html>
