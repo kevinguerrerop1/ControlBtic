@@ -28,13 +28,13 @@
       <?php if($prestamos){ ?>
         <?php foreach($prestamos as $prestamo){ ?>
         <tr>
-          <td><?php echo $prestamo->id?></td>
-          <td><?php echo $prestamo->marca?> <?php echo $prestamo->modelo?> <?php echo $prestamo->nroserie?></td>
-          <td><?php echo $prestamo->ps?></td>
-          <td><?php echo $prestamo->Nombre?> <?php echo $prestamo->Apellido?></td>
-          <td><?php echo $prestamo->nomserv?></td>
-					<td><?php echo $prestamo->ubicacion?></td>
-					<td><?php echo $prestamo->fchentrega?></td>
+          <td><?php echo $prestamo->ID_PRES?></td>
+          <td><?php echo $prestamo->MARCA?> <?php echo $prestamo->MODELO?> <?php echo $prestamo->NROSERIE?></td>
+          <td><?php echo $prestamo->PS?></td>
+          <td><?php echo $prestamo->NOMUSU?> <?php echo $prestamo->APEUSU?></td>
+          <td><?php echo $prestamo->NOMSERV?></td>
+					<td><?php echo $prestamo->UBICACION?></td>
+					<td><?php echo $prestamo->FCHENTREGA?></td>
 				</tr>
         <?php }?>
         <?php }else{ ?>            
