@@ -4,6 +4,7 @@
         public function view(){
             $this->db->select('A.ID_ART, A.MARCA,A.MODELO,A.NROSERIE,C.NOMCAT');    
             $this->db->from('BTIC_ARTICULO A, BTIC_CATEGORIAS C');
+            $this->db->where('C.ID_CAT = A.ID_CAT');
             //Para obtener Datos
             $query = $this->db->get(); 
             if($query->num_rows() >= 1){    

@@ -5,12 +5,12 @@ class InventarioControllers extends CI_Controller {
     function __construct() {
         parent::__construct();
         $this->load->helper('form');
-		$this->load->model('Inventario');
-		$this->load->model('Categorias');
+		$this->load->model('inventario');
+		$this->load->model('categorias');
     }
 
-    public function viewinventario(){
-        $datos['articulos']=$this->Inventario->view();
+    public function index(){
+        $datos['articulos']=$this->inventario->view();
 		$this->load->view('inventario',$datos);
 	}
 

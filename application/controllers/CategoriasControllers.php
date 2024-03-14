@@ -19,8 +19,8 @@ class CategoriasControllers extends CI_Controller {
     }
     
     public function store(){
-        $cat['nomcat']=$this->input->post('nomcat');
-		$this->Categorias->save($cat);
+        $cat['NOMCAT']=$this->input->post('nomcat');
+		$this->categorias->save($cat);
 		
 		//Funcion para redireccionar
 		redirect('CategoriasControllers/index');

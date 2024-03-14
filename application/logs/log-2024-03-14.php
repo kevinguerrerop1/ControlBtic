@@ -3052,3 +3052,956 @@ DEBUG - 2024-03-14 17:24:03 --> File loaded: application/views/include/Footer.ph
 DEBUG - 2024-03-14 17:24:03 --> File loaded: application/views/Prestamos/index.php
 DEBUG - 2024-03-14 17:24:03 --> Final output sent to browser
 DEBUG - 2024-03-14 17:24:03 --> Total execution time: 0.0024
+DEBUG - 2024-03-14 17:33:43 --> Config Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Hooks Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 17:33:43 --> URI Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Router Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Output Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Security Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Input Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 17:33:43 --> Language Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Loader Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 17:33:43 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 17:33:43 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Session Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Session routines successfully run
+DEBUG - 2024-03-14 17:33:43 --> Controller Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 17:33:43 --> Model Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> Model Class Initialized
+DEBUG - 2024-03-14 17:33:43 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 17:33:43 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 17:33:43 --> File loaded: application/views/Categorias/index.php
+DEBUG - 2024-03-14 17:33:43 --> Final output sent to browser
+DEBUG - 2024-03-14 17:33:43 --> Total execution time: 0.0022
+DEBUG - 2024-03-14 17:33:44 --> Config Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Hooks Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 17:33:44 --> URI Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Router Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Output Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Security Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Input Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 17:33:44 --> Language Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Loader Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 17:33:44 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 17:33:44 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Session Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Session routines successfully run
+DEBUG - 2024-03-14 17:33:44 --> Controller Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 17:33:44 --> Model Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> Model Class Initialized
+DEBUG - 2024-03-14 17:33:44 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 17:33:44 --> File loaded: application/views/Categorias/create.php
+DEBUG - 2024-03-14 17:33:44 --> Final output sent to browser
+DEBUG - 2024-03-14 17:33:44 --> Total execution time: 0.0008
+DEBUG - 2024-03-14 17:34:24 --> Config Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Hooks Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 17:34:24 --> URI Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Router Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Output Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Security Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Input Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 17:34:24 --> Language Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Loader Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 17:34:24 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 17:34:24 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Session Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Session routines successfully run
+DEBUG - 2024-03-14 17:34:24 --> Controller Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 17:34:24 --> Model Class Initialized
+DEBUG - 2024-03-14 17:34:24 --> Model Class Initialized
+ERROR - 2024-03-14 17:34:24 --> Severity: Notice  --> Undefined property: CategoriasControllers::$Categorias /var/www/html/projects/ControlBtic/application/controllers/CategoriasControllers.php 23
+DEBUG - 2024-03-14 18:50:37 --> Config Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Hooks Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 18:50:37 --> URI Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Router Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Output Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Security Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Input Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 18:50:37 --> Language Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Loader Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 18:50:37 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 18:50:37 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Session Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Session routines successfully run
+DEBUG - 2024-03-14 18:50:37 --> Controller Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 18:50:37 --> Model Class Initialized
+DEBUG - 2024-03-14 18:50:37 --> Model Class Initialized
+ERROR - 2024-03-14 18:50:37 --> Severity: Notice  --> Undefined property: CategoriasControllers::$Categorias /var/www/html/projects/ControlBtic/application/controllers/CategoriasControllers.php 23
+DEBUG - 2024-03-14 18:50:40 --> Config Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Hooks Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 18:50:40 --> URI Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Router Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Output Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Security Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Input Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 18:50:40 --> Language Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Loader Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 18:50:40 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 18:50:40 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Session Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Session routines successfully run
+DEBUG - 2024-03-14 18:50:40 --> Controller Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 18:50:40 --> Model Class Initialized
+DEBUG - 2024-03-14 18:50:40 --> Model Class Initialized
+ERROR - 2024-03-14 18:50:40 --> Severity: Notice  --> Undefined property: CategoriasControllers::$Categorias /var/www/html/projects/ControlBtic/application/controllers/CategoriasControllers.php 23
+DEBUG - 2024-03-14 18:50:43 --> Config Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Hooks Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 18:50:43 --> URI Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Router Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Output Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Security Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Input Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 18:50:43 --> Language Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Loader Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 18:50:43 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 18:50:43 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Session Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Session routines successfully run
+DEBUG - 2024-03-14 18:50:43 --> Controller Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 18:50:43 --> Model Class Initialized
+DEBUG - 2024-03-14 18:50:43 --> Model Class Initialized
+ERROR - 2024-03-14 18:50:43 --> Severity: Notice  --> Undefined property: CategoriasControllers::$Categorias /var/www/html/projects/ControlBtic/application/controllers/CategoriasControllers.php 23
+DEBUG - 2024-03-14 18:51:49 --> Config Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Hooks Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 18:51:49 --> URI Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Router Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Output Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Security Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Input Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 18:51:49 --> Language Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Loader Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 18:51:49 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 18:51:49 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Session Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Session routines successfully run
+DEBUG - 2024-03-14 18:51:49 --> Controller Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 18:51:49 --> Model Class Initialized
+DEBUG - 2024-03-14 18:51:49 --> Model Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Config Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Hooks Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 18:52:34 --> URI Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Router Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Output Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Security Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Input Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 18:52:34 --> Language Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Loader Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 18:52:34 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 18:52:34 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Session Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Session routines successfully run
+DEBUG - 2024-03-14 18:52:34 --> Controller Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 18:52:34 --> Model Class Initialized
+DEBUG - 2024-03-14 18:52:34 --> Model Class Initialized
+ERROR - 2024-03-14 18:52:34 --> Severity: Warning  --> oci_execute(): ORA-00942: table or view does not exist /var/www/html/projects/ControlBtic/system/database/drivers/oci8/oci8_driver.php 173
+DEBUG - 2024-03-14 18:52:34 --> DB Transaction Failure
+ERROR - 2024-03-14 18:52:34 --> Query error: 
+DEBUG - 2024-03-14 18:52:34 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2024-03-14 18:52:42 --> Config Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Hooks Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 18:52:42 --> URI Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Router Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Output Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Security Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Input Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 18:52:42 --> Language Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Loader Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 18:52:42 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 18:52:42 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Session Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Session routines successfully run
+DEBUG - 2024-03-14 18:52:42 --> Controller Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 18:52:42 --> Model Class Initialized
+DEBUG - 2024-03-14 18:52:42 --> Model Class Initialized
+ERROR - 2024-03-14 18:52:42 --> Severity: Warning  --> oci_execute(): ORA-00942: table or view does not exist /var/www/html/projects/ControlBtic/system/database/drivers/oci8/oci8_driver.php 173
+DEBUG - 2024-03-14 18:52:42 --> DB Transaction Failure
+ERROR - 2024-03-14 18:52:42 --> Query error: 
+DEBUG - 2024-03-14 18:52:42 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2024-03-14 19:08:49 --> Config Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:08:49 --> URI Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Router Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Output Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Security Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Input Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:08:49 --> Language Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:08:49 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:08:49 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Session Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Session routines successfully run
+DEBUG - 2024-03-14 19:08:49 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:08:49 --> Model Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> Model Class Initialized
+DEBUG - 2024-03-14 19:08:49 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:08:49 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:08:49 --> File loaded: application/views/Categorias/index.php
+DEBUG - 2024-03-14 19:08:49 --> Final output sent to browser
+DEBUG - 2024-03-14 19:08:49 --> Total execution time: 0.0022
+DEBUG - 2024-03-14 19:08:57 --> Config Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:08:57 --> URI Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Router Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Output Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Security Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Input Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:08:57 --> Language Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:08:57 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:08:57 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Session Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Session routines successfully run
+DEBUG - 2024-03-14 19:08:57 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:08:57 --> Model Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Model Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Model Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Model Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> Model Class Initialized
+DEBUG - 2024-03-14 19:08:57 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:08:57 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:08:57 --> File loaded: application/views/Prestamos/index.php
+DEBUG - 2024-03-14 19:08:57 --> Final output sent to browser
+DEBUG - 2024-03-14 19:08:57 --> Total execution time: 0.0022
+DEBUG - 2024-03-14 19:08:58 --> Config Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:08:58 --> URI Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Router Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Output Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Security Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Input Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:08:58 --> Language Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:08:58 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:08:58 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Session Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Session routines successfully run
+DEBUG - 2024-03-14 19:08:58 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:08:58 --> Model Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> Model Class Initialized
+DEBUG - 2024-03-14 19:08:58 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:08:58 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:08:58 --> File loaded: application/views/Categorias/index.php
+DEBUG - 2024-03-14 19:08:58 --> Final output sent to browser
+DEBUG - 2024-03-14 19:08:58 --> Total execution time: 0.0016
+DEBUG - 2024-03-14 19:08:59 --> Config Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:08:59 --> URI Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Router Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Output Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Security Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Input Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:08:59 --> Language Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:08:59 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:08:59 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Session Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Session routines successfully run
+DEBUG - 2024-03-14 19:08:59 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Model Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> Model Class Initialized
+DEBUG - 2024-03-14 19:08:59 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:08:59 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:08:59 --> File loaded: application/views/Servicios/vista_serv.php
+DEBUG - 2024-03-14 19:08:59 --> Final output sent to browser
+DEBUG - 2024-03-14 19:08:59 --> Total execution time: 0.0017
+DEBUG - 2024-03-14 19:09:00 --> Config Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:09:00 --> URI Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Router Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Output Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Security Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Input Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:09:00 --> Language Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:09:00 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:09:00 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Session Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Session routines successfully run
+DEBUG - 2024-03-14 19:09:00 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Model Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> Model Class Initialized
+DEBUG - 2024-03-14 19:09:00 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:09:00 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:09:00 --> File loaded: application/views/Users/index.php
+DEBUG - 2024-03-14 19:09:00 --> Final output sent to browser
+DEBUG - 2024-03-14 19:09:00 --> Total execution time: 0.0016
+DEBUG - 2024-03-14 19:09:01 --> Config Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:09:01 --> URI Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Router Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Output Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Security Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Input Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:09:01 --> Language Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:09:01 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:09:01 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Session Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Session routines successfully run
+DEBUG - 2024-03-14 19:09:01 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:09:01 --> Model Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> Model Class Initialized
+DEBUG - 2024-03-14 19:09:01 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:09:01 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:09:01 --> File loaded: application/views/Categorias/index.php
+DEBUG - 2024-03-14 19:09:01 --> Final output sent to browser
+DEBUG - 2024-03-14 19:09:01 --> Total execution time: 0.0015
+DEBUG - 2024-03-14 19:09:02 --> Config Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:09:02 --> URI Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Router Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Output Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Security Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Input Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:09:02 --> Language Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:09:02 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:09:02 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Session Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Session routines successfully run
+DEBUG - 2024-03-14 19:09:02 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:09:02 --> Model Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Model Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> Model Class Initialized
+DEBUG - 2024-03-14 19:09:02 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:09:02 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:09:02 --> File loaded: application/views/inventario.php
+DEBUG - 2024-03-14 19:09:02 --> Final output sent to browser
+DEBUG - 2024-03-14 19:09:02 --> Total execution time: 0.0016
+DEBUG - 2024-03-14 19:09:55 --> Config Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:09:55 --> URI Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Router Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Output Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Security Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Input Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:09:55 --> Language Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:09:55 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:09:55 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Session Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Session routines successfully run
+DEBUG - 2024-03-14 19:09:55 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:09:55 --> Model Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Model Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> Model Class Initialized
+DEBUG - 2024-03-14 19:09:55 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:09:55 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:09:55 --> File loaded: application/views/inventario.php
+DEBUG - 2024-03-14 19:09:55 --> Final output sent to browser
+DEBUG - 2024-03-14 19:09:55 --> Total execution time: 0.0297
+DEBUG - 2024-03-14 19:10:37 --> Config Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:10:37 --> URI Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Router Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Output Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Security Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Input Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:10:37 --> Language Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:10:37 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:10:37 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Session Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Session routines successfully run
+DEBUG - 2024-03-14 19:10:37 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:10:37 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:37 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:10:37 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:10:37 --> File loaded: application/views/inventario.php
+DEBUG - 2024-03-14 19:10:37 --> Final output sent to browser
+DEBUG - 2024-03-14 19:10:37 --> Total execution time: 0.0020
+DEBUG - 2024-03-14 19:10:38 --> Config Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:10:38 --> URI Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Router Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Output Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Security Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Input Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:10:38 --> Language Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:10:38 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:10:38 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Session Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Session routines successfully run
+DEBUG - 2024-03-14 19:10:38 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:10:38 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:10:38 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:10:38 --> File loaded: application/views/Categorias/index.php
+DEBUG - 2024-03-14 19:10:38 --> Final output sent to browser
+DEBUG - 2024-03-14 19:10:38 --> Total execution time: 0.0016
+DEBUG - 2024-03-14 19:10:38 --> Config Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:10:38 --> URI Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Router Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Output Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Security Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Input Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:10:38 --> Language Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:10:38 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:10:38 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Session Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Session routines successfully run
+DEBUG - 2024-03-14 19:10:38 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:10:38 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:38 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:10:38 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:10:38 --> File loaded: application/views/Prestamos/index.php
+DEBUG - 2024-03-14 19:10:38 --> Final output sent to browser
+DEBUG - 2024-03-14 19:10:38 --> Total execution time: 0.0019
+DEBUG - 2024-03-14 19:10:39 --> Config Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:10:39 --> URI Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Router Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Output Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Security Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Input Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:10:39 --> Language Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:10:39 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:10:39 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Session Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Session routines successfully run
+DEBUG - 2024-03-14 19:10:39 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:39 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:10:39 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:10:39 --> File loaded: application/views/Servicios/vista_serv.php
+DEBUG - 2024-03-14 19:10:39 --> Final output sent to browser
+DEBUG - 2024-03-14 19:10:39 --> Total execution time: 0.0016
+DEBUG - 2024-03-14 19:10:40 --> Config Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:10:40 --> URI Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Router Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Output Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Security Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Input Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:10:40 --> Language Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:10:40 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:10:40 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Session Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Session routines successfully run
+DEBUG - 2024-03-14 19:10:40 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:10:40 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:10:40 --> File loaded: application/views/Users/index.php
+DEBUG - 2024-03-14 19:10:40 --> Final output sent to browser
+DEBUG - 2024-03-14 19:10:40 --> Total execution time: 0.0015
+DEBUG - 2024-03-14 19:10:40 --> Config Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:10:40 --> URI Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Router Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Output Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Security Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Input Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:10:40 --> Language Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:10:40 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:10:40 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Session Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Session routines successfully run
+DEBUG - 2024-03-14 19:10:40 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:10:40 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:40 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:10:40 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:10:40 --> File loaded: application/views/Prestamos/index.php
+DEBUG - 2024-03-14 19:10:40 --> Final output sent to browser
+DEBUG - 2024-03-14 19:10:40 --> Total execution time: 0.0015
+DEBUG - 2024-03-14 19:10:41 --> Config Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:10:41 --> URI Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Router Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Output Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Security Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Input Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:10:41 --> Language Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:10:41 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:10:41 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Session Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Session routines successfully run
+DEBUG - 2024-03-14 19:10:41 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:41 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:10:41 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:10:41 --> File loaded: application/views/Servicios/vista_serv.php
+DEBUG - 2024-03-14 19:10:41 --> Final output sent to browser
+DEBUG - 2024-03-14 19:10:41 --> Total execution time: 0.0013
+DEBUG - 2024-03-14 19:10:42 --> Config Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:10:42 --> URI Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Router Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Output Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Security Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Input Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:10:42 --> Language Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:10:42 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:10:42 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Session Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Session routines successfully run
+DEBUG - 2024-03-14 19:10:42 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:42 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:10:42 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:10:42 --> File loaded: application/views/Users/index.php
+DEBUG - 2024-03-14 19:10:42 --> Final output sent to browser
+DEBUG - 2024-03-14 19:10:42 --> Total execution time: 0.0012
+DEBUG - 2024-03-14 19:10:43 --> Config Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:10:43 --> URI Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Router Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Output Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Security Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Input Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:10:43 --> Language Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:10:43 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:10:43 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Session Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Session routines successfully run
+DEBUG - 2024-03-14 19:10:43 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:10:43 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> Model Class Initialized
+DEBUG - 2024-03-14 19:10:43 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:10:43 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:10:43 --> File loaded: application/views/inventario.php
+DEBUG - 2024-03-14 19:10:43 --> Final output sent to browser
+DEBUG - 2024-03-14 19:10:43 --> Total execution time: 0.0015
+DEBUG - 2024-03-14 19:11:17 --> Config Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:11:17 --> URI Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Router Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Output Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Security Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Input Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:11:17 --> Language Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:11:17 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:11:17 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Session Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Session routines successfully run
+DEBUG - 2024-03-14 19:11:17 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:11:17 --> Model Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Model Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> Model Class Initialized
+DEBUG - 2024-03-14 19:11:17 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:11:17 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:11:17 --> File loaded: application/views/inventario.php
+DEBUG - 2024-03-14 19:11:17 --> Final output sent to browser
+DEBUG - 2024-03-14 19:11:17 --> Total execution time: 0.0021
+DEBUG - 2024-03-14 19:11:44 --> Config Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:11:44 --> URI Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Router Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Output Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Security Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Input Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:11:44 --> Language Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:11:44 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:11:44 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Session Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Session routines successfully run
+DEBUG - 2024-03-14 19:11:44 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:11:44 --> Model Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Model Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> Model Class Initialized
+DEBUG - 2024-03-14 19:11:44 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:11:44 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:11:44 --> File loaded: application/views/inventario.php
+DEBUG - 2024-03-14 19:11:44 --> Final output sent to browser
+DEBUG - 2024-03-14 19:11:44 --> Total execution time: 0.0019
+DEBUG - 2024-03-14 19:12:50 --> Config Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:12:50 --> URI Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Router Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Output Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Security Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Input Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:12:50 --> Language Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:12:50 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:12:50 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Session Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Session routines successfully run
+DEBUG - 2024-03-14 19:12:50 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:12:50 --> Model Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Model Class Initialized
+DEBUG - 2024-03-14 19:12:50 --> Model Class Initialized
+ERROR - 2024-03-14 19:12:50 --> 404 Page Not Found --> InventarioControllers/viewinventario
+DEBUG - 2024-03-14 19:13:00 --> Config Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:13:00 --> URI Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Router Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Output Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Security Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Input Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:13:00 --> Language Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:13:00 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:13:00 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Session Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Session routines successfully run
+DEBUG - 2024-03-14 19:13:00 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:13:00 --> Model Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Model Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> Model Class Initialized
+DEBUG - 2024-03-14 19:13:00 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:13:00 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:13:00 --> File loaded: application/views/inventario.php
+DEBUG - 2024-03-14 19:13:00 --> Final output sent to browser
+DEBUG - 2024-03-14 19:13:00 --> Total execution time: 0.0319
+DEBUG - 2024-03-14 19:13:52 --> Config Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:13:52 --> URI Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Router Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Output Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Security Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Input Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:13:52 --> Language Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:13:52 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:13:52 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Session Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Session routines successfully run
+DEBUG - 2024-03-14 19:13:52 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:13:52 --> Model Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Model Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Model Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Model Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> Model Class Initialized
+DEBUG - 2024-03-14 19:13:52 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:13:52 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:13:52 --> File loaded: application/views/Prestamos/index.php
+DEBUG - 2024-03-14 19:13:52 --> Final output sent to browser
+DEBUG - 2024-03-14 19:13:52 --> Total execution time: 0.0021
+DEBUG - 2024-03-14 19:15:22 --> Config Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:15:22 --> URI Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Router Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Output Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Security Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Input Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:15:22 --> Language Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:15:22 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:15:22 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Session Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Session routines successfully run
+DEBUG - 2024-03-14 19:15:22 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:15:22 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:22 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:15:22 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:15:22 --> File loaded: application/views/Prestamos/index.php
+DEBUG - 2024-03-14 19:15:22 --> Final output sent to browser
+DEBUG - 2024-03-14 19:15:22 --> Total execution time: 0.0022
+DEBUG - 2024-03-14 19:15:25 --> Config Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:15:25 --> URI Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Router Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Output Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Security Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Input Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:15:25 --> Language Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:15:25 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:15:25 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Session Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Session routines successfully run
+DEBUG - 2024-03-14 19:15:25 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:15:25 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:25 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:15:25 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:15:25 --> File loaded: application/views/Categorias/index.php
+DEBUG - 2024-03-14 19:15:25 --> Final output sent to browser
+DEBUG - 2024-03-14 19:15:25 --> Total execution time: 0.0016
+DEBUG - 2024-03-14 19:15:26 --> Config Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:15:26 --> URI Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Router Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Output Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Security Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Input Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:15:26 --> Language Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:15:26 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:15:26 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Session Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Session routines successfully run
+DEBUG - 2024-03-14 19:15:26 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:15:26 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:26 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:15:26 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:15:26 --> File loaded: application/views/Prestamos/index.php
+DEBUG - 2024-03-14 19:15:26 --> Final output sent to browser
+DEBUG - 2024-03-14 19:15:26 --> Total execution time: 0.0017
+DEBUG - 2024-03-14 19:15:28 --> Config Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:15:28 --> URI Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Router Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Output Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Security Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Input Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:15:28 --> Language Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:15:28 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:15:28 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Session Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Session routines successfully run
+DEBUG - 2024-03-14 19:15:28 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:15:28 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:28 --> Model Class Initialized
+ERROR - 2024-03-14 19:15:28 --> 404 Page Not Found --> InventarioControllers/viewinventario
+DEBUG - 2024-03-14 19:15:34 --> Config Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:15:34 --> URI Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Router Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Output Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Security Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Input Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:15:34 --> Language Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:15:34 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:15:34 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Session Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Session routines successfully run
+DEBUG - 2024-03-14 19:15:34 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:15:34 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> Model Class Initialized
+DEBUG - 2024-03-14 19:15:34 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:15:34 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:15:34 --> File loaded: application/views/inventario.php
+DEBUG - 2024-03-14 19:15:34 --> Final output sent to browser
+DEBUG - 2024-03-14 19:15:34 --> Total execution time: 0.0377
+DEBUG - 2024-03-14 19:21:18 --> Config Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Hooks Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Utf8 Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> UTF-8 Support Enabled
+DEBUG - 2024-03-14 19:21:18 --> URI Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Router Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Output Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Security Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Input Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-03-14 19:21:18 --> Language Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Loader Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Helper loaded: url_helper
+DEBUG - 2024-03-14 19:21:18 --> Helper loaded: string_helper
+DEBUG - 2024-03-14 19:21:18 --> Database Driver Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Session Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Session routines successfully run
+DEBUG - 2024-03-14 19:21:18 --> Controller Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Helper loaded: form_helper
+DEBUG - 2024-03-14 19:21:18 --> Model Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Model Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> Model Class Initialized
+DEBUG - 2024-03-14 19:21:18 --> File loaded: application/views/include/NavBar.php
+DEBUG - 2024-03-14 19:21:18 --> File loaded: application/views/include/Footer.php
+DEBUG - 2024-03-14 19:21:18 --> File loaded: application/views/inventario.php
+DEBUG - 2024-03-14 19:21:18 --> Final output sent to browser
+DEBUG - 2024-03-14 19:21:18 --> Total execution time: 0.0338
