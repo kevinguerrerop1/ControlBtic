@@ -19,11 +19,15 @@ class CategoriasControllers extends CI_Controller {
     }
     
     public function store(){
-        $cat['NOMCAT']=$this->input->post('nomcat');
-		$this->categorias->save($cat);
-		
+        $id2 = $this->categorias->idreg();
+        foreach($id2 as $id){
+            $id3 = $id->ID_CAT;
+        }
+
+        $nomcat=$this->input->post('NOMCAT');
+		$graba=$this->categorias->save($id3,$nomcat);
 		//Funcion para redireccionar
 		redirect('CategoriasControllers/index');
-    }    
+    } 
 }
 ?>

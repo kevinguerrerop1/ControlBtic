@@ -11,14 +11,16 @@
 </head>
 <body>
 <br>
-	<?php echo form_open('CategoriasControllers/store'); ?>
+<form  id="form_prest" name="form_prest" accept-charset="" method="post" action="<?php echo site_url('CategoriasControllers/store')?>"  >
+
+	<?php  ?>
 		<div class="container">
 			<h2>Ingrese nuevo activo</h2>
 			<label for="">Nombre Categoria</label>
-			<input type="text" id="nomcat" name="nomcat" class="form-control" placeholder="Categoria" aria-describedby="basic-addon1">
+			<input type="text" id="NOMCAT" name="NOMCAT" class="form-control" placeholder="Categoria" aria-describedby="basic-addon1">
 			<br>
 			<button type="submit" class="btn btn-primary">Guardar</button>
 		</div>
-	<?php echo form_close(); ?>
+</form>
 </body>
 </html>
