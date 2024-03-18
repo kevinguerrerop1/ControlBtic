@@ -8,14 +8,14 @@
 </head>
 <body>
 	<br>
-	<?php echo form_open('PrestamosControllers/store'); ?>
+	<?php echo form_open('prestamoscontrollers/store'); ?>
 		<div class="container">
 			<h2>Ingreso Prestamos</h2>
 			<br>
 			<label for="">Articulo</label>
 			<select class="form-select" aria-label="Default select example" id="idart" name="idart">
-			<?php foreach($Inventario as $Inventari){ ?>
-				<option value=<?php echo $Inventari->id ?>><?php echo $Inventari->marca. " " .$Inventari->modelo. " " .$Inventari->nroserie   ?></option>
+			<?php foreach($inventario as $inventari){ ?>
+				<option value=<?php echo $inventari->ID_ART ?>><?php echo $inventari->MARCA. " " .$inventari->MODELO. " " .$inventari->NROSERIE   ?></option>
 			<?php }?>
 			</select>
 			<br>
@@ -24,15 +24,15 @@
 			<br>
 			<label for="">Persona Entrega</label>
 			<select class="form-select" aria-label="Default select example" id="pe" name="pe">
-			<?php foreach($Users as $user){ ?>
-				<option value=<?php echo $user->id ?>><?php echo $user->Nombre?> <?php echo $user->Apellido?></option>
+			<?php foreach($users as $user){ ?>
+				<option value=<?php echo $user->ID_USU ?>><?php echo $user->NOMUSU?> <?php echo $user->APEUSU?></option>
 			<?php }?>
 			</select>			
 			<br>
 			<label for="">Servicio</label>
 			<select class="form-select" aria-label="Default select example" id="idser" name="idser">
-			<?php foreach($Servicios as $Servicio){ ?>
-				<option value=<?php echo $Servicio->id ?>><?php echo $Servicio->nomserv?></option>
+			<?php foreach($servicios as $servicio){ ?>
+				<option value=<?php echo $servicio->ID_SERV ?>><?php echo $servicio->NOMSERV?></option>
 			<?php }?>
 			</select>
 			<br>

@@ -16,23 +16,23 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="<?php echo site_url('InventarioControllers/index')?>">Inicio</a>
+      <a class="navbar-brand" href="<?php echo site_url('inventariocontrollers/index')?>">Inicio</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="<?php echo site_url('CategoriasControllers/index')?>">Categorias</a>
+            <a class="nav-link active" aria-current="page" href="<?php echo site_url('categoriascontrollers/index')?>">Categorias</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="<?php echo site_url('PrestamosControllers/index')?>">Prestamos</a>
+            <a class="nav-link active" aria-current="page" href="<?php echo site_url('prestamoscontrollers/index')?>">Prestamos</a>
           </li>
 					<li class="nav-item">
             <a class="nav-link active" aria-current="page" href="<?php echo site_url('index')?>">Servicios</a>
           </li>
 					<li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="<?php echo site_url('UsersControllers/index')?>">Usuarios</a>
+            <a class="nav-link active" aria-current="page" href="<?php echo site_url('userscontrollers/index')?>">Usuarios</a>
           </li>
           <!-- <li class="nav-item">
             <a class="nav-link" href="#">Pricing</a>

@@ -21,15 +21,18 @@ class InventarioControllers extends CI_Controller {
     }
 
 	public function store(){
-		$art['marca']=$this->input->post('marca');
-		$art['modelo']=$this->input->post('modelo');
-		$art['nroserie']=$this->input->post('nroserie');
-		$art['idcat']=$this->input->post('idcat');
-		$this->Inventario->save($art);
-		
+        $id2 = $this->categorias->idreg();
+        foreach($id2 as $id){
+            $id3 = $id->ID_CAT;
+        }
+
+        $nomcat=$this->input->post('NOMCAT');
+		$graba=$this->categorias->save($id3,$nomcat);
 		//Funcion para redireccionar
-		redirect('InventarioControllers/viewinventario');
-	}
+		redirect('CategoriasControllers/index');
+    } 
+
+	
 
 	public function viewinventarioxcat($id){
         $datos['articulos']=$this->Inventario->viewxcategorias($id);

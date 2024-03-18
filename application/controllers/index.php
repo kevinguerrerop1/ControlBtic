@@ -13,7 +13,7 @@ class Index extends CI_Controller {
     }
     
     public function index(){
-        $datos["servicios"]=$this->model_servicios->vista_prueba();
+        $datos["servicios"]=$this->model_servicios->view();
         $this->load->view('Servicios/vista_serv',$datos);
 		
     }

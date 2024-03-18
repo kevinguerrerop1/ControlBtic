@@ -9,6 +9,9 @@
 <br>
 <body>
   <div class="container">
+    <form name="form" action="<?php echo site_url('servicioscontrollers/create')?>" method="post">
+      <button type="submit" class="btn btn-primary">Crear Nuevo Servicio</button>
+    </form>
     <table class="table" id="myTable">
       <thead>
         <tr>

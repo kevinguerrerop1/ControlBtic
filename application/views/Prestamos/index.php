@@ -9,7 +9,7 @@
 <br>
 <body>
   <div class="container">
-    <form name="form" action="<?php echo site_url('PrestamosControllers/create')?>" method="post">
+    <form name="form" action="<?php echo site_url('prestamoscontrollers/create')?>" method="post">
       <button type="submit" class="btn btn-primary">Crear Nuevo Prestamo</button>
     </form>
     <table class="table" id="myTable">
