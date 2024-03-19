@@ -15,6 +15,11 @@ class InventarioControllers extends CI_Controller {
 		$this->load->view('inventario',$datos);
 	}
 
+    public function indexartpres(){
+        $datos['articulos']=$this->inventario->viewprestamos();
+		$this->load->view('Inventario/indexprestamo',$datos);
+	}
+
     public function create(){
 		$datos['categorias']=$this->categorias->view();
         $datos['tarticulos']=$this->tarticulos->view();

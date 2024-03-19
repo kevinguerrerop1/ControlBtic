@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 		<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
-		<meta charset="UTF-8">
+	<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
   <?php $this->load->view("include/NavBar");?>
@@ -35,11 +35,11 @@
           <td><?php echo $articulo->NROSERIE ?></td>
           <td><?php echo $articulo->NOMCAT ?></td>
           <td><?php echo $articulo->NOMTART ?></td>
-					<td><button type="button" class="btn btn-danger" disabled>Dar de Baja</button></td>
+          <td><a onClick="location.href='<?php echo site_url('inventariocontrollers/viewinventarioxcat/'.$articulo->ID_ART.'')?>'" type="button" class="btn btn-primary" disabled>Prestamo</a></td>              
 				</tr>
-        <?php }?>
-        <?php }else{ ?>            
-        <?php } ?>
+      <?php }?>
+      <?php }else{ ?>            
+      <?php } ?>
       </tbody>
     </table>
   </div>
