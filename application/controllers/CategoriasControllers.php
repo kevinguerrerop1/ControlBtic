@@ -27,7 +27,7 @@ class CategoriasControllers extends CI_Controller {
         $nomcat=$this->input->post('NOMCAT');
 		$graba=$this->categorias->save($id3,$nomcat);
 		//Funcion para redireccionar
-		redirect('CategoriasControllers/index');
+		redirect('categoriascontrollers/index');
     } 
 }
 ?>

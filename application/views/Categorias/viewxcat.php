@@ -9,7 +9,7 @@
 <br>
 <body>
   <div class="container">
-    <form name="form" action="<?php echo site_url('CategoriasControllers/create')?>" method="post">
+    <form name="form" action="<?php echo site_url('categoriascontrollers/create')?>" method="post">
       <button type="submit" class="btn btn-primary">Crear Nueva Categoria</button>
     </form>
     <table class="table" id="myTable">

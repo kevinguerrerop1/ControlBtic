@@ -15,21 +15,24 @@ class InventarioControllers extends CI_Controller {
 	}
 
     public function create(){
-		$datos['categorias']=$this->Categorias->view();
-        $this->load->view("createActivo",$datos);
+		$datos['categorias']=$this->categorias->view();
+        $this->load->view("Inventario/create",$datos);
 		
     }
 
 	public function store(){
-        $id2 = $this->categorias->idreg();
+        $id2 = $this->inventario->idreg();
         foreach($id2 as $id){
-            $id3 = $id->ID_CAT;
+            $id3 = $id->ID_ART;
         }
 
-        $nomcat=$this->input->post('NOMCAT');
-		$graba=$this->categorias->save($id3,$nomcat);
+        $marca=$this->input->post('MARCA');
+        $modelo=$this->input->post('MODELO');
+        $nroserie=$this->input->post('NROSERIE');
+        $idcat=$this->input->post('ID_CAT');
+		$graba=$this->inventario->save($id3,$marca,$modelo,$nroserie,$idcat);
 		//Funcion para redireccionar
-		redirect('CategoriasControllers/index');
+		redirect('inventariocontrollers/index');
     } 
 
 	

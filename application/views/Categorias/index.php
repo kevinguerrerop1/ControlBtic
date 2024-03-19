@@ -9,7 +9,7 @@
 <br>
 <body>
   <div class="container">
-    <form name="form" action="<?php echo site_url('CategoriasControllers/create')?>" method="post">
+    <form name="form" action="<?php echo site_url('categoriascontrollers/create')?>" method="post">
       <button type="submit" class="btn btn-primary">Crear Nueva Categoria</button>
     </form>
     <table class="table" id="myTable">
@@ -26,7 +26,7 @@
         <tr>
           <td><?php echo $categoria->ID_CAT ?></td>
           <td><?php echo $categoria->NOMCAT ?></td>
-          <td><a onClick="location.href='<?php echo site_url('InventarioControllers/viewinventarioxcat/'.$categoria->ID_CAT.'')?>'" type="button" class="btn btn-danger">Info</a></td>              
+          <td><a onClick="location.href='<?php echo site_url('inventariocontrollers/viewinventarioxcat/'.$categoria->ID_CAT.'')?>'" type="button" class="btn btn-danger">Info</a></td>              
         </tr>
         <?php }?>
         <?php }else{ ?>            

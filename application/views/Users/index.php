@@ -9,7 +9,7 @@
 <br>
 <body>
   <div class="container">
-    <form name="form" action="<?php echo site_url('ServiciosControllers/create')?>" method="post">
+    <form name="form" action="<?php echo site_url('usuarioscontrollers/create')?>" method="post">
       <button type="submit" class="btn btn-primary">Crear Nuevo Funcionario</button>
     </form>
     <table class="table" id="myTable">

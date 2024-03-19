@@ -11,7 +11,7 @@
 </head>
 <body>
 <br>
-<form  id="form_prest" name="form_prest" accept-charset="" method="post" action="<?php echo site_url('CategoriasControllers/store')?>"  >
+<form  id="form_prest" name="form_prest" accept-charset="" method="post" action="<?php echo site_url('categoriascontrollers/store')?>"  >
 
 	<?php  ?>
 		<div class="container">

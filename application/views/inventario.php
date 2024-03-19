@@ -10,7 +10,7 @@
 <br>
 <body>
   <div class="container">
-    <form name="form" action="<?php echo site_url('InventarioControllers/create')?>" method="post">
+    <form name="form" action="<?php echo site_url('inventariocontrollers/create')?>" method="post">
       <button type="submit" class="btn btn-primary">Crear Nuevo Producto</button>
     </form>
     <table class="table" id="myTable">
@@ -21,6 +21,7 @@
           <th scope="col">Modelo</th>
           <th scope="col">Nro. Serie</th>
           <th scope="col">Categoria</th>
+          <th scope="col">Tipo</th>
 					<th>Acciones</th>
         </tr>
       </thead>
@@ -33,6 +34,7 @@
           <td><?php echo $articulo->MODELO ?></td>
           <td><?php echo $articulo->NROSERIE ?></td>
           <td><?php echo $articulo->NOMCAT ?></td>
+          <td><?php echo $articulo->NOMTART ?></td>
 					<td><button type="button" class="btn btn-danger" disabled>Dar de Baja</button></td>
 				</tr>
         <?php }?>
