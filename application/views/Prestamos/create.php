@@ -20,7 +20,7 @@
 			</select>
 			<br>
 			<label for="">Persona Solicitante</label>
-			<input type="text" id="ps" name="ps" class="form-control" placeholder="Persona Solicitante" aria-describedby="basic-addon1">
+			<input type="text" id="ps" name="ps" class="form-control" placeholder="Persona Solicitante" aria-describedby="basic-addon1" required>
 			<br>
 			<label for="">Persona Entrega</label>
 			<select class="form-select" aria-label="Default select example" id="pe" name="pe">
@@ -37,7 +37,7 @@
 			</select>
 			<br>
 			<label for="">Ubicacion</label>
-			<input type="text" id="ubicacion" name="ubicacion" class="form-control" placeholder="Ubicacion" aria-describedby="basic-addon1">	
+			<input type="text" id="ubicacion" name="ubicacion" class="form-control" placeholder="Ubicacion" aria-describedby="basic-addon1" required>	
 			<br>		
 			<label for="">Fecha Entrega</label>
 			<input type="text" id="fchentrega" name="fchentrega" class="form-control" placeholder="Modelo" value="<?php echo date("d-m-Y");?>" aria-describedby="basic-addon1" readonly>		
