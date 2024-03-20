@@ -12,8 +12,22 @@ class UsersControllers extends CI_Controller {
     }
     
     public function index(){
-        $datos['users']=$this->users->view();
-		$this->load->view('Users/index',$datos);
+        $this->load->view('login');
+        //$datos['users']=$this->users->view();
+		//$this->load->view('Users/index',$datos);
     }
+
+    public function verificar_usuario(){
+        $usuario = $this->input->post("Correo");
+        $contrasena = $this->input->post("Clave");
+        $result = $this->users->verificar_usuario($usuario,$contrasena);
+        
+        if($result){
+            $this->registrar_sesion($result);//,$mes_id,$ano_id);
+        }else{
+            $this->session->set_flashdata("msg-failed","Nombre de Usuario o Contraseña incorrectos.");
+            redirect("index/index","refresh");
+        }
+      }
 }
 ?>

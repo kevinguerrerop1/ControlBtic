@@ -19,23 +19,28 @@ class PrestamosControllers extends CI_Controller {
 
     public function create(){
 		$datos['servicios']=$this->model_servicios->view();
-		$datos['inventario']=$this->inventario->view();
+		$datos['inventario']=$this->inventario->viewprestamos();
 		$datos['users']=$this->users->view();
         $this->load->view("Prestamos/create",$datos);
     }
 
 	public function store(){
-		$pres['idart']=$this->input->post('idart');
-		$pres['ps']=$this->input->post('ps');
-		$pres['pe']=$this->input->post('pe');
-		$pres['idser']=$this->input->post('idser');
-		$pres['ubicacion']=$this->input->post('ubicacion');
-		$pres['fchentrega']=$this->input->post('fchentrega');
+        $id2 = $this->prestamos->idreg();
+        foreach($id2 as $id){
+            $id3 = $id->ID_PRES;
+        }
 
-		$this->Prestamos->save($pres);
-		redirect('PrestamosControllers/index');
+        $id_art=$this->input->post('ID_ART');
+        $ps=$this->input->post('PS');
+        $id_usu=$this->input->post('ID_USU');
+        $id_serv=$this->input->post('ID_SERV');
+        $ubicacion=$this->input->post('UBICACION');
+        $fchentrega=$this->input->post('FCHENTREGA');
 
-	}
+		$graba=$this->prestamos->save($id3,$id_art,$ps,$id_usu,$id_serv,$ubicacion,$fchentrega);
+		//Funcion para redireccionar
+		redirect('prestamoscontrollers/index');
+    }
     
     
     
