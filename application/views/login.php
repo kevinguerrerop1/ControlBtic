@@ -9,8 +9,8 @@
     <title>Document</title>
 </head>
 <body>
+<form  id="form_prest" name="form_prest" accept-charset="" method="post" action="<?php echo site_url('userscontrollers/verificar_usuario')?>">
     <div class="container">
-        <?php echo form_open('prestamoscontrollers/store'); ?>
             <h2>Login</h2>
             <!-- Email input -->
 			<label for="">Correo</label>
@@ -21,8 +21,8 @@
 			<input type="text" id="Clave" name="Clave" class="form-control" placeholder="Clave" aria-describedby="basic-addon1">
 			<br>
             <!-- Submit button -->
-        <button type="button" class="btn btn-primary btn-block mb-4">Ingresar</button>
-        </form>
+        <button type="submit" class="btn btn-primary btn-block mb-4">Ingresar</button>
     </div>
+</form>    
 </body>
 </html>

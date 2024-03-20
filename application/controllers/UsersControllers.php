@@ -23,10 +23,10 @@ class UsersControllers extends CI_Controller {
         $result = $this->users->verificar_usuario($usuario,$contrasena);
         
         if($result){
-            $this->registrar_sesion($result);//,$mes_id,$ano_id);
+            redirect("inventariocontrollers/index");
         }else{
             $this->session->set_flashdata("msg-failed","Nombre de Usuario o Contraseña incorrectos.");
-            redirect("index/index","refresh");
+            redirect("userscontrollers/index","refresh");
         }
       }
 }
