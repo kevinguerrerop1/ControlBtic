@@ -8,6 +8,8 @@
   <?php $this->load->view("include/NavBar");?>
 </head>
 <br>
+
+
 <body>
   <div class="container">
     <form name="form" action="<?php echo site_url('inventariocontrollers/create')?>" method="post">
@@ -37,6 +39,13 @@
           <td><?php echo $articulo->NOMTART ?></td>
 					<td><button type="button" class="btn btn-danger" disabled>Dar de Baja</button></td>
 				</tr>
+
+        <?php if($usuario){ ?>
+               <?php foreach($usuario as $usuario){ ?>
+				<td ><input type="text" name="nom_usu" id="nom_usu" value="<?php echo $usuario->APEUSU?>" /> </td>
+			    <?php } ?>  
+			<?php }else{ ?>            
+	    <?php } ?>
         <?php }?>
         <?php }else{ ?>            
         <?php } ?>

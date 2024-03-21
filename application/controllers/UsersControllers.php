@@ -23,7 +23,9 @@ class UsersControllers extends CI_Controller {
         $result = $this->users->verificar_usuario($usuario,$contrasena);
         
         if($result){
-            redirect("inventariocontrollers/index");
+            $datos=$result;
+            //echo($datos);
+            redirect("prestamoscontrollers/create",$datos);
         }else{
             $this->session->set_flashdata("msg-failed","Nombre de Usuario o Contraseña incorrectos.");
             redirect("userscontrollers/index","refresh");

@@ -24,10 +24,10 @@
 			<br>
 			<label for="">Persona Entrega</label>
 			<select class="form-select" aria-label="Default select example" id="ID_USU" name="ID_USU">
-			<?php foreach($users as $user){ ?>
-				<option value=<?php echo $user->ID_USU ?>><?php echo $user->NOMUSU?> <?php echo $user->APEUSU?></option>
+			<?php foreach($datos as $dato){ ?>
+				<option value=<?php echo $dato->ID_USU ?>><?php echo $dato->NOMUSU?></option>
 			<?php }?>
-			</select>			
+			</select>
 			<br>
 			<label for="">Servicio</label>
 			<select class="form-select" aria-label="Default select example" id="ID_SERV" name="ID_SERV">

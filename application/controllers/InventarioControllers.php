@@ -8,9 +8,12 @@ class InventarioControllers extends CI_Controller {
 		$this->load->model('inventario');
 		$this->load->model('categorias');
         $this->load->model('tarticulos');
+        $this->load->model('users');
     }
 
     public function index(){
+        $id_usuario = $this->session->userdata('id_usu');
+        $datos["usuario"] = $this->users->get_datos($id_usuario);
         $datos['articulos']=$this->inventario->view();
 		$this->load->view('inventario',$datos);
 	}
@@ -39,7 +42,7 @@ class InventarioControllers extends CI_Controller {
         $idcat=$this->input->post('ID_CAT');
         $idtart=$this->input->post('ID_TART');
         
-		$graba=$this->inventario->save($id3,$marca,$modelo,$nroserie,$idcat,$idtart);
+		$graba=$this->inventario->save($id3,$marca,$modelo,$nroserie,$idcat,$idtart,$idepres);
 		//Funcion para redireccionar
 		redirect('inventariocontrollers/index');
     } 

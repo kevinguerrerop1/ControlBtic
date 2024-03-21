@@ -29,7 +29,6 @@
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <li><a class="dropdown-item" href="<?php echo site_url('inventariocontrollers/index')?>">Inv. General</a></li>
               <li><a class="dropdown-item" href="<?php echo site_url('inventariocontrollers/indexartpres')?>">Inv. Prestamos</a></li>
-              <li><a class="dropdown-item" href="#">Something else here</a></li>
             </ul>
           </li>
           <li class="nav-item">
@@ -39,7 +38,7 @@
             <a class="nav-link active" aria-current="page" href="<?php echo site_url('prestamoscontrollers/index')?>">Prestamos</a>
           </li>
 					<li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="<?php echo site_url('index')?>">Servicios</a>
+            <a class="nav-link active" aria-current="page" href="<?php echo site_url('servicioscontrollers/index')?>">Servicios</a>
           </li>
 					<li class="nav-item">
             <a class="nav-link active" aria-current="page" href="<?php echo site_url('userscontrollers/index')?>">Usuarios</a>

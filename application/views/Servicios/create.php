@@ -11,7 +11,7 @@
     <form  id="form_prest" name="form_prest" accept-charset="" method="post" action="<?php echo site_url('servicioscontrollers/store')?>">
     <?php  ?>
 		<div class="container">
-			<h2>Ingrese nuevo activo</h2>
+			<h2>Ingrese nuevo servicio</h2>
 			<label for="">Nombre Servicio</label>
 			<input type="text" id="NOMSERV" name="NOMSERV" class="form-control" placeholder="Servicio" aria-describedby="basic-addon1">
 			<br>

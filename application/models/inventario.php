@@ -61,13 +61,15 @@
       }    
     }
 
-    public function save($id,$marca,$modelo,$nroserie,$idcat,$idtart){
+    public function save($id,$marca,$modelo,$nroserie,$idcat,$idtart,$idepres){
+      $idepres = '1';
       $this->db->set('ID_ART',$id);
       $this->db->set('MARCA',$marca);
       $this->db->set('MODELO',$modelo);
       $this->db->set('NROSERIE',$nroserie);
       $this->db->set('ID_CAT',$idcat);
       $this->db->set('ID_TART',$idtart);
+      $this->db->set('ID_EPRES',$idepres);
       $this->db->insert('SALUD.BTIC_ARTICULO');
       if($this->db->affected_rows() == 1){      
         return true;
