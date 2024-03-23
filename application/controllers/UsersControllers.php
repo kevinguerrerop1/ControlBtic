@@ -23,13 +23,37 @@ class UsersControllers extends CI_Controller {
         $result = $this->users->verificar_usuario($usuario,$contrasena);
         
         if($result){
-            $datos=$result;
-            //echo($datos);
-            redirect("prestamoscontrollers/create",$datos);
+            $obj = json_decode($result);
+            $usuario = $obj->{'NOMUSU'};
+            $apellido = $obj->{'APEUSU'};
+            $id = $obj->{'ID_USU'};
+
+            $usuario_data = array("usuario" => $usuario,"id" => $id, "logueado" => true);
+
+            $this->session->set_userdata($usuario_data);
+
+            //var_dump($usuario_data);
+
+            redirect("prestamoscontrollers/create",$usuario_data);
         }else{
             $this->session->set_flashdata("msg-failed","Nombre de Usuario o Contraseña incorrectos.");
             redirect("userscontrollers/index","refresh");
         }
-      }
+    }
+
+    public function registrar_sesion($datos_usuario){
+        
+        $obj = json_decode($datos_usuario);
+        $usuario = $obj->{'USU_USUARIO'};
+        $tipo = $obj->{'TIPO_DESC'};
+        $id = $obj->{'USU_ID'};
+        
+        $usuario_data = array("usuario" => $usuario,"id" => $id, "tipo" => $tipo, "logueado" => true);
+
+        $this->session->set_userdata($usuario_data);
+        
+        $this->redireccionar($mes_id,$ano_id);
+
+    }
 }
 ?>

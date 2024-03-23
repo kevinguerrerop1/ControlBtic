@@ -13,7 +13,7 @@ class PrestamosControllers extends CI_Controller {
     }
     
     public function index(){
-        $id_usuario = $this->session->userdata('id_usu');
+        $id_usuario = $this->session->userdata('id');
         $datos["usuario"] = $this->users->get_datos($id_usuario);
         $datos['prestamos']=$this->prestamos->view();
 		$this->load->view('Prestamos/index',$datos);
@@ -24,9 +24,8 @@ class PrestamosControllers extends CI_Controller {
     }
 
     public function create(){
-        $id_usuario = $this->session->userdata('id_usu');
-        $datos["users"] = $this->users->get_datos($id_usuario);
-
+        $id_usuario = $this->session->userdata('id');
+        $datos["usuario"] = $this->users->get_datos($id_usuario);
 		$datos['servicios']=$this->model_servicios->view();
 		$datos['inventario']=$this->inventario->viewprestamos();
         $this->load->view("Prestamos/create",$datos);
