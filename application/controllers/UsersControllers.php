@@ -41,6 +41,10 @@ class UsersControllers extends CI_Controller {
         }
     }
 
+    public function registro(){
+        $this->load->view('registro');
+    }
+
     public function registrar_sesion($datos_usuario){
         
         $obj = json_decode($datos_usuario);
