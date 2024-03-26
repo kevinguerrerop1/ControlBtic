@@ -14,7 +14,7 @@
 
         public function verificar_usuario($usuario,$contrasena){  
         
-            $this->db->select("U.ID_USU,U.NOMUSU,U.APEUSU,U.CORREO,U.CLAVE");
+            $this->db->select("U.ID_USU,U.NOMUSU,U.APEUSU,U.CORREO,U.CLAVE,U.ID_TUSU");
             $this->db->from("BTIC_USUARIOS U");
             $this->db->where("U.CORREO",$usuario);   
             $this->db->where("U.CLAVE",$contrasena);   

@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "inventariocontrollers";
+$route['default_controller'] = "userscontrollers";
 $route['404_override'] = '';
 
 
