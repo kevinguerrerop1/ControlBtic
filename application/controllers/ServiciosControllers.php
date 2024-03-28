@@ -39,6 +39,13 @@ class ServiciosControllers extends CI_Controller {
 		redirect('servicioscontrollers/index');
     } 
 
+    public function camestadoart($id_art){
+        
+
+
+
+    }
+
     
 
 }

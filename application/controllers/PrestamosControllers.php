@@ -45,6 +45,7 @@ class PrestamosControllers extends CI_Controller {
         $fchentrega=$this->input->post('FCHENTREGA');
 
 		$graba=$this->prestamos->save($id3,$id_art,$ps,$id_usu,$id_serv,$ubicacion,$fchentrega);
+        $graba2=$this->prestamos->updateDispArt($id_art);
 		//Funcion para redireccionar
 		redirect('prestamoscontrollers/index');
     }

@@ -22,10 +22,12 @@
 			<label for="">Persona Solicitante</label>
 			<input type="text" id="PS" name="PS" class="form-control" placeholder="Persona Solicitante" aria-describedby="basic-addon1" required>
 			<br>
-			<label for="">Persona Entrega</label>				
+			<label for="">Persona Entrega</label>			
+			<select class="form-select" aria-label="Default select example" id="ID_USU" name="ID_USU">
 			<?php foreach($usuario as $usuari){ ?>
-				<input type="text" id="ID_USU" name="ID_USU" class="form-control" placeholder="Modelo" value="<?php echo $usuari->ID_USU ?>.- <?php echo $usuari->NOMUSU?> <?php echo $usuari->APEUSU?>" aria-describedby="basic-addon1" readonly>
+				<option value=<?php echo $usuari->ID_USU ?>><?php echo $usuari->NOMUSU?> <?php echo $usuari->APEUSU?></option>
 			<?php }?>
+			</select>
 			<br>
 			<label for="">Servicio</label>
 			<select class="form-select" aria-label="Default select example" id="ID_SERV" name="ID_SERV">
